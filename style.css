@@ -57,7 +57,11 @@ body * {
   font-weight: 500;
   line-height: 24px;
 }
-
+#profile p2 {
+  font-weight: 250;
+  line-height: 24px;
+  font-style: italic;
+}
 /* switch */
 #switch {
   position: relative;
