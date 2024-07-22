@@ -101,6 +101,17 @@ body * {
   -webkit-backdrop-filter: blur(4px);
   border-radius: 9999px;
 }
+/* subtexto pg1 */
+#subtexto {
+  text-align: center;
+  font-weight: 250;
+  line-height: 24px;
+  font-style: italic;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding: 24px 0;
+}
 
 /* links */
 ul {
