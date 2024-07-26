@@ -62,6 +62,7 @@ body * {
   line-height: 24px;
   font-style: italic;
 }
+
 /* switch */
 #switch {
   position: relative;
@@ -137,6 +138,17 @@ ul li a {
   text-decoration: none;
   font-weight: 500;
   transition: background 0.5s;
+}
+
+ul p {
+  text-align: center;
+  font-weight: 250;
+  line-height: 24px;
+  font-style: italic;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 24 0 24px;
 }
 
 /* pseudo-selector */
