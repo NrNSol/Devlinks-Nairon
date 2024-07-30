@@ -6,7 +6,7 @@
 
 :root {
   --text-color: white;
-  --bg-url: url(https://img.freepik.com/free-vector/abstract-black-luxury-background-with-abstracts_361591-4145.jpg?t=st=1722305334~exp=1722308934~hmac=a1e050d5f79bd345f9cfc029c7e96c7507249e33c69c8f3b3265a443395ec306&w=360);
+  --bg-url: url(./assets/bg-mobile-moon.jpg);
   --stroke-color: rgba(255, 255, 255, 0.5);
   --surface-color: rgba(255, 255, 255, 0.1);
   --surface-color-hover: rgba(255, 255, 255, 0.05);
@@ -186,7 +186,7 @@ footer {
 /* media queries */
 @media (min-width: 700px) {
   :root {
-    --bg-url: url(./assets/bg-desktop-dark-modern.jpg);
+    --bg-url: url(https://img.freepik.com/free-photo/3d-dark-grunge-display-background-with-smoky-atmosphere_1048-16218.jpg?t=st=1722306276~exp=1722309876~hmac=81c0da61ce66f58246131bbc90175e00a7520c83bbd81b58167d731880ba3dee&w=900);
   }
   .light {
     --bg-url: url(./assets/bg-desktop-light-sky.jpg);
